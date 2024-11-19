@@ -1,0 +1,58 @@
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #F7ECDE;
+}
+
+.navbar {
+  box-shadow: 0 4px 6px #212529;
+}
+.title11
+{
+  color: #41A65C;
+}
+
+.ss11{
+  background-color: #BB4120;
+}
+.navbackcolor
+{
+  background-color: #F7ECDE;
+}
+.card {
+  border: none;
+}
+
+.card-title {
+  font-weight: 600;
+}
+
+.table {
+  margin-top: 20px;
+  border: 1px solid #dee2e6;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
